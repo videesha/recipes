@@ -2,7 +2,7 @@
 
 ## Source
 Recipe Tin Eats [link](https://www.recipetineats.com/espresso-martini/url)\
-![alt-text](./pictures/epresso-martini.jpeg)
+![martini](./pictures/espresso-martini.jpeg)
 
 ## Details
 Serves: 2\
