@@ -2,7 +2,7 @@
 
 ## Source
 Favourite Family Recipes [link](https://www.favfamilyrecipes.com/instant-pot-meatballs/)
-!(./pictures/meatballs.jpeg)
+![meatballs](./pictures/meatballs.jpeg)
 
 ## Details
 Serves: 6
