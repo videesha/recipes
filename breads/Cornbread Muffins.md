@@ -1,7 +1,7 @@
 # Cornbread Muffins
 
 ## Source
-SBS Food Sarafi [link](https://www.sbs.com.au/food/recipes/corny-cornbread-muffins)\
+SBS Food Safari [link](https://www.sbs.com.au/food/recipes/corny-cornbread-muffins)\
 ![alt-text](./pictures/cornbread-muffins.png)
 
 ## Details
