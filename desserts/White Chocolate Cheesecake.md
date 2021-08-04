@@ -12,7 +12,7 @@ Chill Time: 4 hours or overnight
 ## Ingredients
 - 250g packet nice biscuits
 - 125g butter, melted
-- 6 gelatine leaves (see notes)
+- 6 gelatine leaves (or 3 teaspoons powdered gelatine)
 - 2 x 180g blocks white chocolate, chopped
 - 600ml tub thickened cream
 - (optional) 180g dark chocolate, chopped. Alternatively top with fruit.
