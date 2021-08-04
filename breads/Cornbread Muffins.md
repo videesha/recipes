@@ -1,8 +1,8 @@
 # Cornbread Muffins
 
 ## Source
-SBS Food Sarafi [link](https://www.sbs.com.au/food/recipes/corny-cornbread-muffins\
-![alt-text](./pictures/pic.jpeg)
+SBS Food Sarafi [link](https://www.sbs.com.au/food/recipes/corny-cornbread-muffins)\
+![alt-text](./pictures/cornbread-muffins.png)
 
 ## Details
 Makes: 12\
