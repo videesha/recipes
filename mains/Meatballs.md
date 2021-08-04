@@ -1,15 +1,14 @@
 # Meatballs
 
 ## Source
-Favourite Family Recipes [link](https://www.favfamilyrecipes.com/instant-pot-meatballs/)
+Favourite Family Recipes [link](https://www.favfamilyrecipes.com/instant-pot-meatballs/)\
 ![meatballs](./pictures/meatballs.jpeg)
 
 ## Details
-Serves: 6
-Prep Time: 10 minutes
-Cook Time: 10 minutes
+Serves: 6\
+Prep Time: 10 minutes\
+Cook Time: 10 minutes\
 Total: 20 minutes
-
 
 ## Ingredients
 - 700 grams beef mince
