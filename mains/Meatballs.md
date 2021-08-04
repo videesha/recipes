@@ -29,5 +29,5 @@ Total: 20 minutes
 Form into balls using hands or small ice cream scoop. You want them to be slightly smaller than a golf ball.
 3. Spray bottom of Instant Pot with cooking spray and add spaghetti sauce.
 Place meatballs over the sauce, layering them if necessary. It's OK if they touch, just don't squish them too much.
-4. Place lid on Instant Pot and switch valve to “sealing”. Press “Manual” and set to high pressure for 7 minutes.
+4. Pressure cook on High for 7 minutes 
 5. Natural release for 5 minutes before quick releasing.
