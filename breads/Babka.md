@@ -44,7 +44,7 @@ Cook Time:  45 min
 1. Cooled chocolate filling goes on top (leave a 1cm dmz on the outside). Hazlenuts scattered on top of chocolate.
 1. Slice in half parallel to long edge. You will have two 15cm by 40cm rectangles now.
 1. With each rectangle, enclose the chocolate by pressing together the long edges, forming a rough cylinder. Seal each end by pressing together.
-1. With the chosen baking dish in mind, plat the two rolls. Try to fit as many turns in as possible, your base instinct will be to plat insufficiently often. Get into dish. Make it look as nice as possible!
+1. With the chosen baking dish in mind, plait the two rolls. Try to fit as many turns in as possible, your base instinct will be to plait insufficiently often. Get into dish. Make it look as nice as possible!
 1. Rise for 2h
 1. Bake for 15min at 190C then 25-30min at 170C
 1. Cool on wire rack, serve slightly warm.
