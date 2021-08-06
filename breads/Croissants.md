@@ -3,7 +3,7 @@
 ## Source
 From an eric davidson bread book, the title is called "wheaten croissants"
 
-<!-- TODO image ![alt-text](./pictures/pic.jpeg) -->
+![Delicious croissants](./pictures/croissants.jpg) 
 
 ## Details
 Makes: About 8\
