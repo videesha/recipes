@@ -4,7 +4,7 @@ Max deliciousness achieved by cooking in bacon fat.
 
 Build the amount of flour and sugar around how much buttermilk you have. Achieve the desired consistency. Live with the quantity. 500ml buttermilk will spawn pancakes for four hungry savages.
 
-![pancakes on a plate !](./pictures/pancakes_plated.jpeg)
+![pancakes on a plate !](./pictures/pancakes_plated.jpg)
 
 ## Details
 Makes: many pancakes\
