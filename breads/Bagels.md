@@ -11,6 +11,7 @@ Cook Time: 25 minutes
 ## Ingredients
 - 7g dry yeast
 - 500g flour
+- 2 teaspoons salt
 - 2 tablespoons sugar (less is fine tbh)
 - 1 tablespoon bicarb
 - 1 egg white (for glazing)
@@ -20,9 +21,9 @@ Cook Time: 25 minutes
 ## Method
 1. Mix yeast with 300ml luke warm water. Add flour, sugar, salt. Mix together and form dough.
 1. Knead for ten minutes until elastic.
-1. Put dough in oiled bowl and rise until doubled in size; approx one hour.
+1. Put dough in oiled bowl and rise until doubled in size (approx one hour in a warm place).
 1. Divide the dough into ten 81g balls. Place on baking trays (with baking paper underneath).
-1. Cling film and rise fro another 30 min.
+1. Cling film and rise for another 30 min.
 1. Preheat oven to 180c conventional. Bring 10cm of water to boil in a wide pan.
 1. Use a finger to put a hole in each ball, making a taurus.
 1. Add bicarb to the water (promotes chewiness). Boil bagels for 60seconds on each side.
