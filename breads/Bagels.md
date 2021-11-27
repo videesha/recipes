@@ -1,7 +1,7 @@
 # Bagels
 
-![alt-text](./pictures/bagels1.jpeg)
-![alt-text](./pictures/bagels2.jpeg)
+![alt-text](./pictures/bagels1.jpg)
+![alt-text](./pictures/bagels2.jpg)
 
 ## Details
 Makes: 10 bagels\
