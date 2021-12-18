@@ -26,7 +26,8 @@ Cook Time:  20 minutes
 ## Method
 1. Slice all the onions (not dice).
 1. Instant pot on saute (high). Melt butter.
-1. Saute onions until liquid starts to come out. Add bicarb straight after the onions go in.
+1. Add onions to instant pot. Add bicarb immediately and stir.
+1. Saute onions until liquid starts to come out.
 1. Add all other ingredients except baguette and cheese.
 1. Pressure cook for 20 mins.
 1. Slice baguette and grill with cheese sprinkled on top.
