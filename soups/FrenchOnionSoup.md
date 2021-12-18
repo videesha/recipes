@@ -1,6 +1,6 @@
 # French Onion Soup
 
-![image tbc](./pictures/pic.jpeg)
+![image tbc](./pictures/french_onion_soup.jpeg)
 
 ## Details
 Serves: 10\
